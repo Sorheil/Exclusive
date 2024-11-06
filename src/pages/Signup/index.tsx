@@ -1,7 +1,5 @@
 import Header from "../../components/Header"
-import Footer from "@/components/Footer"
-import signup from './../../assets/image/signup.png'
-import { Link } from "react-router-dom"
+
 const Signup: React.FC = () => {
     return (
         <>
